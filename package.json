@@ -1,0 +1,22 @@
+{
+  "name": "github-teams-slack-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src"
+  },
+  "keywords": [],
+  "author": "Andrew Lisowski",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "phelia": "^0.1.0",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "ts-node": "^8.8.2",
+    "typescript": "^3.8.3"
+  }
+}
